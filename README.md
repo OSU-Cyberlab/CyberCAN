@@ -34,7 +34,7 @@ significantly to the safety and cybersecurity of automotive systems.
 
 CyberCAN is designed in Matlab/Simulink environment, where the user can define a certain road scenario (CyberCAN comes with predefined Road Scenario) and driving profile for their test vehicle. The Vehicle model can be tweaked by the user to accomodate their desired specifications. 
 
-1. Upon running the RunMe.m file, the user is asked for a set of inputs which defines the driving profile and the attack model.
+1. Upon running the RunMe.m file, TruckBenchmark.mdl file is simulated. The user is asked for a set of inputs for the simulation, which defines the driving profile and the attack model.
    
 ![input](https://github.com/user-attachments/assets/7fce18e6-ff55-4ec4-83a4-be136407acbb)
 _caption: An example showing the user inputs as per their requirements_
