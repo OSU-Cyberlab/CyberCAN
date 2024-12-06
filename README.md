@@ -14,6 +14,9 @@ Please cite the work if you use it for reference.
 Mairaj ud din, Q. and Ahmed, Q., "CyberCAN: In-Vehicle Network and Attack Simulator," submitted to SAE Technical Paper 2025-01-****, 2025.
 
 # About CyberCAN
+
+![image](https://github.com/user-attachments/assets/8404e7a8-1ab3-4c9d-a842-adc8dbc60e0c)
+
 This work introduces CyberCAN, a benchmark simulator designed to simulate IVN traffic for vehicle operations using a real-world validated heavy-duty truck model. 
 CyberCAN is designed to assist system engineers & cybersecurity experts to evaluate impact of an attack on a vehicle model. And use the results to design appropriate safety and security mechanisms.
 
@@ -27,8 +30,7 @@ significantly to the safety and cybersecurity of automotive systems.
 
 # How to use CyberCAN
 
-![model_compelte](https://github.com/user-attachments/assets/1a23f05b-1ecf-49bd-a464-5f94f8732ab9)
-
+![image](https://github.com/user-attachments/assets/ccbe2861-e2fc-4ee0-acc1-887aaa708444)
 
 CyberCAN is designed in Matlab/Simulink environment, where the user can define a certain road scenario (CyberCAN comes with predefined Road Scenario) and driving profile for their test vehicle. The Vehicle model can be tweaked by the user to accomodate their desired specifications. 
 
