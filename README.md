@@ -37,23 +37,23 @@ CyberCAN is designed in Matlab/Simulink environment, where the user can define a
 ![input](https://github.com/user-attachments/assets/7fce18e6-ff55-4ec4-83a4-be136407acbb)
 _caption: An example showing the user inputs as per their requirements_
 
-   i. Enter the total simulation time: _(this defines the total duration of the simulation)_
+   i. **Enter the total simulation time:** _(this defines the total duration of the simulation)_
 
-   ii. Select Cruise Profile (Step decrease = 1, Constant 80kph = 2): _(The simulation provides 2 options for the cruise speed profile of the vehicle, 1. the vehicle starts at 90 kph and would start decreasing 10kph after the first 50 secs with an interval of 100 sec, until it reaches 30 kph. 2. The vehicle would cruise at a set speed of 80kph)_
+   ii. **Select Cruise Profile (Step decrease = 1, Constant 80kph = 2):** _(The simulation provides 2 options for the cruise speed profile of the vehicle, 1. the vehicle starts at 90 kph and would start decreasing 10kph after the first 50 secs with an interval of 100 sec, until it reaches 30 kph. 2. The vehicle would cruise at a set speed of 80kph)_
 
-   iii. Select the type of Attack (1= Fuzzy, 2=spoofing, 3=Plateau, 4=Replay Attack, 5 = GAttack, 6= C-GAttack, 7= No Attack, 8 = Denial of Service): _(CyberCAN model incorporates 5 known types of adversarial attacks and 2 Generative AI based advanced attack types 'GAttack' and C-GAttack'. The user can choose the attack types and observe the impact of that particular attack on the vehicle)_
+   iii.** Select the type of Attack (1= Fuzzy, 2=spoofing, 3=Plateau, 4=Replay Attack, 5 = GAttack, 6= C-GAttack, 7= No Attack, 8 = Denial of Service):** _(CyberCAN model incorporates 5 known types of adversarial attacks and 2 Generative AI based advanced attack types 'GAttack' and C-GAttack'. The user can choose the attack types and observe the impact of that particular attack on the vehicle)_
 
-   iv. Enter the desired frequency of attack: _(Attack frequency (f) indicates the number of attack sequences, i.e. how many times the attack is to be executed on the vehicle during the drive cycle. The attack sequences are equally spaced and depend on the total simulation time and the start time for the attack)_
+   iv. **Enter the desired frequency of attack:** _(Attack frequency (f) indicates the number of attack sequences, i.e. how many times the attack is to be executed on the vehicle during the drive cycle. The attack sequences are equally spaced and depend on the total simulation time and the start time for the attack)_
 
-   v. Enter the duration of each attack: _(The attack duration (d) represents the total duration of each attack sequence executed on the vehicle)_
+   v. **Enter the duration of each attack:** _(The attack duration (d) represents the total duration of each attack sequence executed on the vehicle)_
 
-  vi. Enter the time for attack: _(The attack time (t), specifies the exact moments during the driving cycle when each attack is introduced, relative to the start of the drive cycle)_
+  vi. **Enter the time for attack:** _(The attack time (t), specifies the exact moments during the driving cycle when each attack is introduced, relative to the start of the drive cycle)_
 
-  vii. Set the spoofing value: _(If the attack type selected is spoofing attack, then the user will be asked to enter the spoofing value for the attack)_
+  vii. **Set the spoofing value:** _(If the attack type selected is spoofing attack, then the user will be asked to enter the spoofing value for the attack)_
 
 Once all the inputs are provided, the simulation would start running and produce detailed output related to vehicle behavior during the drive cycle. The simulation would automatically generate plots for:
 
-a. Vehicle Speed & Cruise Speed Command 
+**a. Vehicle Speed & Cruise Speed Command 
 
 b. Gear Selected
 
@@ -63,7 +63,7 @@ d. Torque
 
 e. Turbo Speed
 
-f. Control inputs (Throttle Command, Clutch, Gear Request, EGR valve, VGT)
+f. Control inputs (Throttle Command, Clutch, Gear Request, EGR valve, VGT)**
 
 ![image](https://github.com/user-attachments/assets/9bcc7be3-3b65-47a6-bce9-6d63f5a219d5)
 ![image](https://github.com/user-attachments/assets/433676f1-7b50-4f65-b76c-e836b3f759db)
