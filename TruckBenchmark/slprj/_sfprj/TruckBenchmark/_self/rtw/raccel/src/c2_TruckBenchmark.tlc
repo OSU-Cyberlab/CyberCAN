@@ -1,0 +1,124 @@
+%implements "chartSource" "C"
+%function ChartConfig(block, system) void
+  %createrecord chartConfiguration { ...
+          executeAtInitialization  0 ...
+  }
+  %return chartConfiguration
+%endfunction
+%function ChartDataMap(block, system) void
+  %createrecord ChartDataElements {\
+    NumChartData   15 \
+    ChartDataDefaults {\
+      RecordType   "ChartData"\
+      Dimensions   []\
+      IsTestPoint  0\
+    }\
+    ChartData {\
+      Name         "sfEvent"\
+      Description  "ActiveChartEvent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "doneDoubleBufferReInit"\
+      Description  "DoubleBufferInitCheck"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  ""\
+    }\
+    ChartData {\
+      Name         "is_active_c2_TruckBenchmark"\
+      Description  "StateIsActive"\
+      SFName       "is_active_c2_TruckBenchmark"\
+      Path         "is_active_c2_TruckBenchmark"\
+      SrcLocation  ""\
+      IsTestPoint  1\
+    }\
+    ChartData {\
+      Name         "previous_gear"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:98-111"\
+    }\
+    ChartData {\
+      Name         "previous_gear_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:98-111"\
+    }\
+    ChartData {\
+      Name         "incoming_gear"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:112-125"\
+    }\
+    ChartData {\
+      Name         "incoming_gear_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:112-125"\
+    }\
+    ChartData {\
+      Name         "last_state"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:126-136"\
+    }\
+    ChartData {\
+      Name         "last_state_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:126-136"\
+    }\
+    ChartData {\
+      Name         "state"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:148-153"\
+    }\
+    ChartData {\
+      Name         "state_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:148-153"\
+    }\
+    ChartData {\
+      Name         "t_start"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:154-161"\
+    }\
+    ChartData {\
+      Name         "t_start_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:154-161"\
+    }\
+    ChartData {\
+      Name         "last_call"\
+      Description  "EmlPersistent"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:162-171"\
+    }\
+    ChartData {\
+      Name         "last_call_not_empty"\
+      Description  "EmlPersistentSentinel"\
+      SFName       ""\
+      Path         ""\
+      SrcLocation  "TruckBenchmark:837:162-171"\
+    }\
+  }
+  %return ChartDataElements
+%endfunction

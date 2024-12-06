@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Page-1" id="W5P4g3R8aklV56ZijrGQ">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-1" value="TIme Stamp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-2" value="CAN ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-3" value="Data Bytes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="30" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-4" value="0.037055" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-5" value="18FEF100" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-6" value="F3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-7" value="50" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-8" value="06" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-9" value="40" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-10" value="00" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-11" value="00" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-12" value="1F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-13" value="TIme Stamp" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-14" value="CAN ID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-15" value="Data Bytes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-16" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; text-wrap: wrap; vertical-align: baseline; text-align: left;&quot;&gt;1.163017&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-17" value="&#xa;&lt;pre style=&quot;box-sizing: border-box; overflow: auto; font-family: monospace; font-size: 11px; display: block; padding: 1px 0px; margin: 0px; line-height: inherit; color: rgb(0, 0, 0); word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; white-space: pre-wrap; vertical-align: baseline; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;0x18fef100&lt;/pre&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-18" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; text-wrap: wrap; vertical-align: baseline; text-align: left;&quot;&gt;0x55&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-19" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; text-wrap: wrap; vertical-align: baseline; text-align: left;&quot;&gt;0x2&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-20" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; text-wrap: wrap; vertical-align: baseline; text-align: left;&quot;&gt;0x0&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-21" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; text-wrap: wrap; vertical-align: baseline; text-align: left;&quot;&gt;0x55&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-22" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; text-wrap: wrap; vertical-align: baseline; text-align: left;&quot;&gt;0x55&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-23" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; text-wrap: wrap; vertical-align: baseline; text-align: left;&quot;&gt;0x1&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-24" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; text-wrap: wrap; vertical-align: baseline; text-align: left;&quot;&gt;0x0&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-25" value="&lt;pre style=&quot;box-sizing: border-box; overflow: auto; padding: 1px 0px; margin-top: 0px; margin-bottom: 0px; line-height: inherit; word-break: break-all; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: 0px; border-radius: 0px; text-wrap: wrap; vertical-align: baseline; text-align: left;&quot;&gt;0x51&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-26" value="FF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9-7b2qfiyAoQbQ0E2DJP-1" target="9-7b2qfiyAoQbQ0E2DJP-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="310" as="sourcePoint" />
+            <mxPoint x="490" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-28" value="&lt;i&gt;&lt;b&gt;CAN Packet from actual Truck CAN log&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" width="255" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-7b2qfiyAoQbQ0E2DJP-30" value="&lt;i&gt;&lt;b&gt;CAN Packet from CyberCAN Datalog&lt;/b&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="255" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

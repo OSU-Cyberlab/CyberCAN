@@ -1,0 +1,8 @@
+﻿-I"C:\Users\qazim\OneDrive - The Ohio State University\Application for Fellowship\.Project\SDCS\Generative AI\Truck Simulink Model\TruckBenchmark_v1.2\TruckBenchmark"
+-I"C:\Users\qazim\OneDrive - The Ohio State University\Application for Fellowship\.Project\SDCS\Generative AI\Truck Simulink Model\TruckBenchmark_v1.2\TruckBenchmark\slprj\accel\TruckBenchmark"
+-I"C:\Program Files\MATLAB\R2023a\extern\include"
+-I"C:\Program Files\MATLAB\R2023a\simulink\include"
+-I"C:\Program Files\MATLAB\R2023a\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2023a\toolbox\shared\can\src\scanutil"
+-I"C:\Program Files\MATLAB\R2023a\toolbox\shared\vehicle_protocols\j1939core\src\j1939\export\include"
+-I"C:\Program Files\MATLAB\R2023a\toolbox\shared\vehicle_protocols\j1939core\src\j1939\include"
