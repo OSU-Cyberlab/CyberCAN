@@ -55,7 +55,7 @@ _caption: An example showing the user inputs as per their requirements_
 
 Once all the inputs are provided, the simulation would start running and produce detailed output related to vehicle behavior during the drive cycle. The simulation would automatically generate plots for:
 
-**a. Vehicle Speed & Cruise Speed Command 
+a. Vehicle Speed & Cruise Speed Command 
 
 b. Gear Selected
 
@@ -65,7 +65,7 @@ d. Torque
 
 e. Turbo Speed
 
-f. Control inputs (Throttle Command, Clutch, Gear Request, EGR valve, VGT)**
+f. Control inputs (Throttle Command, Clutch, Gear Request, EGR valve, VGT)
 
 ![image](https://github.com/user-attachments/assets/9bcc7be3-3b65-47a6-bce9-6d63f5a219d5)
 ![image](https://github.com/user-attachments/assets/433676f1-7b50-4f65-b76c-e836b3f759db)
@@ -104,10 +104,12 @@ The attack is initiated at the defined attack time with spoofed value of 50 kph.
 ![vehicle_spoofing](https://github.com/user-attachments/assets/ed8ed90e-f4e0-4fd3-b50d-bce5889ed075)
 
 Once the simulation is completed, a CAN Log file with the timestamp is automatically generated.
+
 ![image](https://github.com/user-attachments/assets/238213c6-25ee-4e7e-bcc3-293c44bea3e7)
+
 ![image](https://github.com/user-attachments/assets/84090114-dada-449f-b545-3d105352c57b)
 
-An extrctor for the CAN log has been written (Jupyter Notebook) and provided here:
+An extrctor for the CAN log has been written (python - jupyter notebook) and provided here:
 
 'mat2py_canlog_SAE.ipynb'
 
