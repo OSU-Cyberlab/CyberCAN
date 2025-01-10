@@ -27,6 +27,14 @@ CyberCAN also logs the network traffic under both normal and attack conditions i
 CyberCAN offer valuable resources for developing and testing more resilient control and defence mechanisms, contributing
 significantly to the safety and cybersecurity of automotive systems.
 
+# Pre-requisites
+
+Tool for decoding J1939: https://systemscyber.engr.colostate.edu/learn/J1939BasicsAndTools provides comprehensive information related to J1939 CAN message decoding.
+Another tool to decode the CAN message is the pretty_j1939 project. https://github.com/nmfta-repo/pretty_j1939.  
+
+MATLAB 2023a to run CyberCAN
+
+A valid Python enabled IDE for CAN log decdoing and analysis
 
 # How to use CyberCAN
 
